@@ -29,4 +29,4 @@ Python, C++, JavaScript, React, FastAPI, APIs, LLMs, RAG, system design
 
 ## Contact
 - Email: davidkevin.yang@gmail.com
-- LinkedIn: 你的 LinkedIn 链接
+- LinkedIn: (https://www.linkedin.com/in/david-k-yang/)
